@@ -5,4 +5,4 @@
 - 📫 How to reach me? [QQ群](https://qm.qq.com/q/ihNeNmNzaM)
 - ~~⚡Fun fact: We are a Chinese primary school student~~
 - 😭 big guy took me  
-![big guy took me](./我其实是笨蛋.jpg)
+  <img src="./我其实是笨蛋.jpg" width="320" />
