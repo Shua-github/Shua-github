@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shua-github
-- 👀 I’m interested in `QQbot`,`TypeScript`,`Python`,`Kotlin`
-- 🌱 I’m currently learning `golang`
+- 👀 I’m interested in `euicc` `Phigros`
+- 🌱 I’m currently learning `golang` `rust`
 - ~~💞️ I’m looking to collaborate on~~ There are already there
 - 📫 How to reach me? [![QQ Group](https://img.shields.io/badge/QQ_Group-点击加入-blue?logo=tencentqq)](https://qm.qq.com/q/ihNeNmNzaM)
 - ~~⚡Fun fact: We are a Chinese primary school student~~
